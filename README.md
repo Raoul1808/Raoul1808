@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Raoul1808 (AKA Mew). I'm a French student, gamer and programmer.
 
-I code in C# and Python, I make:
+I code in C#, Python and Rust. I make:
 - Games (game jams, personal projects)
 - Mods (Spin Rhythm XD, Terraria)
 - Bots (Discord)
