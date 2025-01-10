@@ -7,6 +7,7 @@ I'm Raoul1808 (AKA Mew). I'm a French 42 student, gamer and (almost completely) 
 I code in C++, C#, Python and Rust. I make:
 - Games (game jams, personal projects)
 - Mods (for various games, but mostly Spin Rhythm XD)
+- Tools (for games, testing purposes or just for fun)
 - and other random stuff (word lister, text converter, sometimes Discord bots, goofy stuff, and maybe more)
 
 I also have a little experience with Java and Lua, occasionally making mods for some other games/contributions to open-source projects.
